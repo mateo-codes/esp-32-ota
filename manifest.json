@@ -1,6 +1,6 @@
 {
   "version": "0.3.700",
-  "url": "https://github.com/mateo-codes/esp-32-ota/releases/v0.3.700/download/WatchOS.ino.bin",
+  "url": "https://github.com/mateo-codes/esp-32-ota/releases/download/v0.3.700/WatchOS.ino.bin",
   "size": 1362864,
   "md5": "3542ec86ce65a52c25fc6f1ec144ad0f",
   "notes": "OTA first build"
