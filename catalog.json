@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "id": "batt",
+      "name": "Battery",
+      "version": "1.0.0",
+      "author": "mateo-codes",
+      "description": "Charge level and voltage",
+      "needs": ["battery"],
+      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/batt/main.lua",
+      "size": 924
+    },
+    {
+      "id": "bigclock",
+      "name": "Big Clock",
+      "version": "1.0.0",
+      "author": "mateo-codes",
+      "description": "Large time and date",
+      "needs": ["clock"],
+      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/bigclock/main.lua",
+      "size": 1307
+    }
+  ]
+}

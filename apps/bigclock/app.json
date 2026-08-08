@@ -1,0 +1,8 @@
+{
+  "id": "bigclock",
+  "name": "Big Clock",
+  "version": "1.0.0",
+  "author": "mateo-codes",
+  "description": "Large time and date",
+  "needs": ["clock"]
+}

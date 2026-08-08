@@ -1,0 +1,8 @@
+{
+  "id": "batt",
+  "name": "Battery",
+  "version": "1.0.0",
+  "author": "mateo-codes",
+  "description": "Charge level and voltage",
+  "needs": ["battery"]
+}
