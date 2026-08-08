@@ -1,7 +1,7 @@
 {
   "version": "0.3.900",
   "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.900/WatchOS.ino.bin",
-  "size": 1539808,
+  "size": 1362864,
   "md5": "55b80a45a18335a272c751e684cf8726",
   "notes": "The great lua vm change!"
 }
