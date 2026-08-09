@@ -19,6 +19,16 @@
       "needs": ["clock"],
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/bigclock/main.lua",
       "size": 1307
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "version": "1.0.0",
+      "author": "watchos",
+      "description": "Snake, written in Lua",
+      "needs": [],
+      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/snake/main.lua",
+      "size": 10286
     }
   ]
 }

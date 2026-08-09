@@ -1,0 +1,8 @@
+{
+  "id": "snake",
+  "name": "Snake Lua",
+  "version": "1.0.0",
+  "author": "watchos",
+  "description": "Snake, written in Lua",
+  "needs": []
+}
