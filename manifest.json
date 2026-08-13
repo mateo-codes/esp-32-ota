@@ -1,9 +1,9 @@
 {
-  "version": "0.3.921",
-  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.921/WatchOS.ino.bin",
-  "size": 1827280,
-  "md5": "2e7752393c1c0411a0fe58889416b084",
-  "sha256": "5334f18071951b66e4ec008316f1a177a51c6f796295afb022910516e622f594",
-  "sig": "304402200b302fbc172bcc233c51ff95d36efce6908e1d83d65bf1cec4162876f1563497022072086335c9d908a51caf77725a937621db62aa24fd046813fff381e20326e55b",
-  "notes": "TLS pinning and signing."
+  "version": "0.3.990",
+  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.990/WatchOS.ino.bin",
+  "size": 1816832,
+  "md5": "6ade79a56afd0974efc224b7d00627d1",
+  "sha256": "2e2c00c428dc3afe7fd1c578db778b40473e84b9ea3f934ff7acb2d3d2560a83",
+  "sig": "304502200ac8427df294939dc8f1d1722a862d394aa8c2ae778607bfe703f5aa46370564022100a0ea3ebac2cb5f6e789d9a5194a15b3714b3d6aa7b77adc6645e591df0c5fc6f",
+  "notes": "Updated app store"
 }
