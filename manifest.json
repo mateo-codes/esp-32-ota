@@ -1,7 +1,9 @@
 {
-  "version": "0.3.900",
-  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.900/WatchOS.ino.bin",
-  "size": 1539808,
-  "md5": "55b80a45a18335a272c751e684cf8726",
-  "notes": "The great lua vm change!"
+  "version": "0.3.920",
+  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.920/WatchOS.ino.bin",
+  "size": 1827280,
+  "md5": "2e7752393c1c0411a0fe58889416b084",
+  "sha256": "5334f18071951b66e4ec008316f1a177a51c6f796295afb022900516e622f594",
+  "sig": "304402200b302fbc172bcc233c51ff95d36efce6908e1d83d65bf1cec4162876f1563497022072086335c9d908a51caf77725a937621db62aa24fd046813fff381e20326e55b",
+  "notes": "TLS pinning and signing."
 }
