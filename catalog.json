@@ -8,7 +8,9 @@
       "description": "Charge level and voltage",
       "needs": ["battery"],
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/batt/main.lua",
-      "size": 924
+      "size": 924,
+      "sha256": "110465cad842ff0d19ac4d1632bbfd565f4f6c3a11bf09706999664ef63e0c2b",
+      "sig": "3044022005249ba73ea8b5c14aa91602e1f42f153b9e6e6625fc89d3f5ff41642793ceee02202a1fdd1528b1e06f830166b99d428fe136f3f43d03c2287f0e3aa9c83c68e341"
     },
     {
       "id": "bigclock",
@@ -18,17 +20,21 @@
       "description": "Large time and date",
       "needs": ["clock"],
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/bigclock/main.lua",
-      "size": 1307
+      "size": 1307,
+      "sha256": "63748bbbac7f15de0019756a82429f6f7cbcca7654e8f1b2bd338ad0a709d714",
+      "sig": "3045022100b0ef1dac4c8a7f3d4240da97cd47b57adc2d3517059d47fa1d1e4557b3d685a002201d3e6094204bc1e7a47ecdc56a538ec86dc2eed6ee0227386138142fbb02eb68"
     },
     {
-      "id": "snake",
-      "name": "Snake",
+      "id": "snakelua",
+      "name": "Snake Lua",
       "version": "1.0.0",
       "author": "watchos",
       "description": "Snake, written in Lua",
       "needs": [],
-      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/snake/main.lua",
-      "size": 10286
+      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/snakelua/main.lua",
+      "size": 10528,
+      "sha256": "7a48f68721b22e566e35d71b09c7d85f016cb3ed52f3633ee4f1c8f8ef90e225",
+      "sig": "3046022100f2573342ba07d4f7c7679cfa91445f09cbe3f693accadd616ac28699a1549b08022100d2d4088f5a97d7b2a9eb8045af509651a5a6b5f4bc60e856628a00a766d8a4f1"
     }
   ]
 }
