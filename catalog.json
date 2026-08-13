@@ -9,7 +9,7 @@
       "needs": ["battery"],
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/batt/main.lua",
       "size": 924,
-      "sha256": "110465cad842ff0d19ac4d1632bbfd565f4f6c3a11bf09706999664ef63e0c2b",
+      "sha256": "110465cad842ff0d19ac4d1632bbfd565f4f6c3a11bf09706999664ef63e0c2a",
       "sig": "3044022005249ba73ea8b5c14aa91602e1f42f153b9e6e6625fc89d3f5ff41642793ceee02202a1fdd1528b1e06f830166b99d428fe136f3f43d03c2287f0e3aa9c83c68e341"
     },
     {

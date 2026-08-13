@@ -30,12 +30,15 @@ local MAX_LEN    = COLS * ROWS                     -- 342
 -- 170ms is about as slow as feels deliberate rather than sluggish; 70ms is the
 -- floor where a swipe still lands in the right cell. The step is per apple, so
 -- the ramp is earned rather than timed.
-local TICK_START, TICK_MIN, TICK_STEP = 170, 70, 4
+local TICK_START = 170
+local TICK_MIN = 70
+local TICK_STEP = 4
 
 local state, last_tick
 local bufx, bufy, grid, head, len
 local dirx, diry, pendx, pendy, pending
-local foodx, foody, score, best
+local foodx, foody 
+local score, best
 local btn_a, btn_b
 
 local function gi(x, y) return y * COLS + x end
@@ -169,11 +172,11 @@ function on_exit()
 end
 
 function update(now)
-  if state ~= 'playing' then return end
-  if now - last_tick < tick_interval() then return end
-  last_tick = now
-  step()
-  dirty()
+  if state ~= 'playing' then return end -- if state does not equal 'playing', return
+  if now - last_tick < tick_interval() then return end -- else if now minus last_tick is less than tick_interval(), return
+  last_tick = now -- update last_tick to now
+  step() -- call step() to update the game state
+  dirty() -- mark the screen as needing to be redrawn
 end
 
 -- ---- drawing --------------------------------------------------------------
