@@ -10,7 +10,7 @@
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/batt/main.lua",
       "size": 924,
       "sha256": "110465cad842ff0d19ac4d1632bbfd565f4f6c3a11bf09706999664ef63e0c2a",
-      "sig": "3044022005249ba73ea8b5c14aa91602e1f42f153b9e6e6625fc89d3f5ff41642793ceee02202a1fdd1528b1e06f830166b99d428fe136f3f43d03c2287f0e3aa9c83c68e341"
+      "sig": "3045022100bebbd4bfd7065cf54c7720743bc3e63b324d3e775ecaa58e42dc9939713804be022011e03dc0b3f341def2968e532717f340fb2f73ae501fed7b566cdc6bac186bf3"
     },
     {
       "id": "bigclock",
@@ -22,7 +22,7 @@
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/bigclock/main.lua",
       "size": 1307,
       "sha256": "63748bbbac7f15de0019756a82429f6f7cbcca7654e8f1b2bd338ad0a709d714",
-      "sig": "3045022100b0ef1dac4c8a7f3d4240da97cd47b57adc2d3517059d47fa1d1e4557b3d685a002201d3e6094204bc1e7a47ecdc56a538ec86dc2eed6ee0227386138142fbb02eb68"
+      "sig": "304502202a954c6ff8c04bf5b88ab363c40b0aba38ab289e87886e986a7b6790d2928a0f022100a3149230880469b2f526ede52f244a98932bae632cd1963abba3981adfde97d8"
     },
     {
       "id": "snakelua",
@@ -34,7 +34,36 @@
       "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/snakelua/main.lua",
       "size": 10528,
       "sha256": "7a48f68721b22e566e35d71b09c7d85f016cb3ed52f3633ee4f1c8f8ef90e225",
-      "sig": "3046022100f2573342ba07d4f7c7679cfa91445f09cbe3f693accadd616ac28699a1549b08022100d2d4088f5a97d7b2a9eb8045af509651a5a6b5f4bc60e856628a00a766d8a4f1"
+      "sig": "3045022100f765668b3b11eb068ea013f94301905305082169c1cabd19921bbcd2f21e0c460220025b182a58dcd61249d3a4f66aa32e68845651771ef0879ad769b3e05511b2e6"
+    },
+    {
+      "id": "spriteload",
+      "name": "Sprite Load",
+      "version": "1.0.0",
+      "author": "watchos",
+      "description": "Sidecar sprite files via sprite.load",
+      "needs": [],
+      "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/apps/spriteload/main.lua",
+      "size": 4440,
+      "sha256": "5658e21a71125c884382647bae2634ab3387636ffc86d861bad0a6b30e412d92",
+      "sig": "30440220440e13de602687e6c873d6ef5ec38f8bad13a27b4c6e1dab0eaf846ff518ea8b022058cf044edad5a2b740fe9511179ff6fed18d05ea14621091885b2952df3822ec",
+      "assets": [
+        {
+          "name": "frame_1.spr",
+          "size": 18440,
+          "sha256": "62948b162057caeadcdc7fd988e55c2a7e4b782940d7e91b0a43701083e93c43"
+        },
+        {
+          "name": "frame_2.spr",
+          "size": 18440,
+          "sha256": "68ed4e4864f6767b081622fc2f57273909c55290e09dc1f855dd0c78a06a883a"
+        },
+        {
+          "name": "frame_3.spr",
+          "size": 18440,
+          "sha256": "b082c6ec8ecac38de316a3f0e6fbe6be96424382eae6589cb10a5c9c75731a2b"
+        }
+      ]
     }
   ]
 }

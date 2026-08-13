@@ -1,0 +1,8 @@
+{
+  "id": "spriteload",
+  "name": "Sprite Load",
+  "version": "1.0.0",
+  "author": "watchos",
+  "description": "Sidecar sprite files via sprite.load",
+  "needs": []
+}

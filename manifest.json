@@ -1,9 +1,9 @@
 {
-  "version": "0.3.990",
-  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.990/WatchOS.ino.bin",
-  "size": 1816832,
-  "md5": "6ade79a56afd0974efc224b7d00627d1",
-  "sha256": "2e2c00c428dc3afe7fd1c578db778b40473e84b9ea3f934ff7acb2d3d2560a83",
-  "sig": "304502200ac8427df294939dc8f1d1722a862d394aa8c2ae778607bfe703f5aa46370564022100a0ea3ebac2cb5f6e789d9a5194a15b3714b3d6aa7b77adc6645e591df0c5fc6f",
-  "notes": "Updated app store"
+  "version": "0.3.992",
+  "url": "https://raw.githubusercontent.com/mateo-codes/esp-32-ota/main/releases/download/v0.3.992/WatchOS.ino.bin",
+  "size": 1769072,
+  "md5": "d92c74895538c461898dd37deee8788b",
+  "sha256": "a84c789b3ed2c13892e07f6120f34d9bcc50b3881e0723632feac6056b4f03d5",
+  "sig": "304402207c8c6d91c984d805d236eaedef4bb1c061df4c0b7e4cb7a12929fbbe83c9eb8702205bed507cc6eee3363461f4ab8a1807477066a118c7aea52c2cc16b20dd42e17c",
+  "notes": "Implemented assets folder for store apps."
 }
